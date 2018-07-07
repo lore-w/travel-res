@@ -72,5 +72,5 @@ avatar: /images/commons/avatar.jpg
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:lore-w/travel.lore-w.com.git
+  repo: git@github.com:lore-w/travel.git
   branch: master
